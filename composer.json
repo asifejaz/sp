@@ -1,0 +1,12 @@
+{
+    "require": {
+        "illuminate/collections": "^8.20",
+        "ixudra/curl": "^6.21",
+        "nesbot/carbon": "^2.43"
+    },
+    "autoload": {
+        "psr-4": {
+            "SP\\": "src/"
+        }
+    }
+}
